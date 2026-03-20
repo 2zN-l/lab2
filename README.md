@@ -33,6 +33,14 @@
 <img width="367" height="69" alt="image" src="https://github.com/user-attachments/assets/52c32ef9-cae8-451d-a707-df09c8167590" />
 
 <br>
+
+
+# Заметки
+Для запуска доктестов в терминале:
+- python -m doctest Zadanie1.py -v
+- python -m doctest Zadanie2.py -v
+- python -m doctest Zadanie3.py -v
+
 <br>
 <br>
 <br>
